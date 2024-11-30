@@ -1,3 +1,6 @@
+// Hasan Raza
+// Solution Finder for the 8 Puzzle Problem Using Iterative Depth-First-Search
+
 #include <iostream>
 #include <vector>
 #include <stdio.h>
